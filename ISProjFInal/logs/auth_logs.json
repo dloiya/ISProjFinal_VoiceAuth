@@ -1,0 +1,389 @@
+[
+  {
+    "id": "727e210c-77a9-4f71-a2d0-2e9a97e91676",
+    "timestamp": "2024-11-05T16:03:32.677062",
+    "event_type": "registration",
+    "username": "dl",
+    "details": {
+      "status": "success",
+      "timestamp": "2024-11-05T16:03:32.677062",
+      "embedding_size": 60
+    }
+  },
+  {
+    "id": "bae9f064-9076-467e-879d-76a14bbdc260",
+    "timestamp": "2024-11-05T16:05:29.204723",
+    "event_type": "registration",
+    "username": "dl",
+    "details": {
+      "status": "success",
+      "timestamp": "2024-11-05T16:05:29.204723",
+      "embedding_size": 60
+    }
+  },
+  {
+    "id": "41ff69f6-d666-4618-8fa8-c606dfe83eb4",
+    "timestamp": "2024-11-05T16:13:30.637883",
+    "event_type": "authentication",
+    "username": "dl",
+    "details": {
+      "status": "failed",
+      "reason": "User not found",
+      "timestamp": "2024-11-05T16:13:30.637883"
+    }
+  },
+  {
+    "id": "d81305aa-6b7b-4eb8-a824-133ec87b84fd",
+    "timestamp": "2024-11-05T16:13:30.639230",
+    "event_type": "authentication",
+    "username": "dl",
+    "details": {
+      "status": "failed",
+      "timestamp": "2024-11-05T16:13:30.639154"
+    }
+  },
+  {
+    "id": "c36ae5a1-a9e8-4bfa-ac3e-35d762d50bd0",
+    "timestamp": "2024-11-05T16:15:21.540104",
+    "event_type": "authentication",
+    "username": "dl",
+    "details": {
+      "status": "failed",
+      "reason": "User not found",
+      "timestamp": "2024-11-05T16:15:21.540104"
+    }
+  },
+  {
+    "id": "15905b16-8d2e-4b5b-9a5c-18cfee460baa",
+    "timestamp": "2024-11-05T16:15:21.547848",
+    "event_type": "authentication",
+    "username": "dl",
+    "details": {
+      "status": "failed",
+      "timestamp": "2024-11-05T16:15:21.547848"
+    }
+  },
+  {
+    "id": "153766aa-5c69-4373-bd48-e6b1af13eae0",
+    "timestamp": "2024-11-05T16:15:33.155121",
+    "event_type": "authentication",
+    "username": "dl",
+    "details": {
+      "status": "failed",
+      "reason": "User not found",
+      "timestamp": "2024-11-05T16:15:33.154089"
+    }
+  },
+  {
+    "id": "4d253d4e-55c3-4141-8180-180ba278bc67",
+    "timestamp": "2024-11-05T16:15:33.155652",
+    "event_type": "authentication",
+    "username": "dl",
+    "details": {
+      "status": "failed",
+      "timestamp": "2024-11-05T16:15:33.155652"
+    }
+  },
+  {
+    "id": "531e32fa-3d70-471d-ba5b-8f3feb0789dc",
+    "timestamp": "2024-11-05T16:16:38.192354",
+    "event_type": "authentication",
+    "username": "dl",
+    "details": {
+      "status": "failed",
+      "reason": "User not found",
+      "timestamp": "2024-11-05T16:16:38.192354"
+    }
+  },
+  {
+    "id": "919a7beb-1e1f-4345-988d-47ae8cfc7824",
+    "timestamp": "2024-11-05T16:16:38.198883",
+    "event_type": "authentication",
+    "username": "dl",
+    "details": {
+      "status": "failed",
+      "timestamp": "2024-11-05T16:16:38.198883"
+    }
+  },
+  {
+    "id": "d13f95ff-0d61-4751-97ea-e378f528f66a",
+    "timestamp": "2024-11-05T16:17:23.273540",
+    "event_type": "authentication",
+    "username": "dl",
+    "details": {
+      "status": "failed",
+      "reason": "User not found",
+      "timestamp": "2024-11-05T16:17:23.271383"
+    }
+  },
+  {
+    "id": "3d22027f-2a92-4f3e-8b33-7d77b59433ec",
+    "timestamp": "2024-11-05T16:17:23.273540",
+    "event_type": "authentication",
+    "username": "dl",
+    "details": {
+      "status": "failed",
+      "timestamp": "2024-11-05T16:17:23.273540"
+    }
+  },
+  {
+    "id": "60cd2770-8e55-46a5-bc27-987d9fec7e16",
+    "timestamp": "2024-11-06T21:00:40.838466",
+    "event_type": "authentication",
+    "username": "dl",
+    "details": {
+      "status": "success",
+      "voice_similarity_score": 0.999181529684497,
+      "passphrase_match_score": 88,
+      "transcribed_text": "rumbled years drooping girl Rose it but came success boy",
+      "timestamp": "2024-11-06T21:00:40.838466"
+    }
+  },
+  {
+    "id": "63e6f3ed-d512-4597-b7be-9a74b4937e74",
+    "timestamp": "2024-11-06T21:00:40.840671",
+    "event_type": "authentication",
+    "username": "dl",
+    "details": {
+      "status": "success",
+      "timestamp": "2024-11-06T21:00:40.839476"
+    }
+  },
+  {
+    "id": "8505f1c6-1e85-4dfb-b27a-b35a32ffbf31",
+    "timestamp": "2024-11-07T03:15:06.071855",
+    "event_type": "authentication",
+    "username": "dakshloiya",
+    "details": {
+      "status": "failed",
+      "reason": "User not found",
+      "timestamp": "2024-11-07T03:15:06.071855"
+    }
+  },
+  {
+    "id": "20aa0c97-be6f-4b38-9eae-344179f7bbb9",
+    "timestamp": "2024-11-07T03:15:06.076742",
+    "event_type": "authentication",
+    "username": "dakshloiya",
+    "details": {
+      "status": "failed",
+      "timestamp": "2024-11-07T03:15:06.075808"
+    }
+  },
+  {
+    "id": "784bb32f-a462-436c-a95d-9ebac9848413",
+    "timestamp": "2024-11-07T03:16:15.408383",
+    "event_type": "registration",
+    "username": "dakshloiya",
+    "details": {
+      "status": "success",
+      "timestamp": "2024-11-07T03:16:15.407383",
+      "embedding_size": 60
+    }
+  },
+  {
+    "id": "f7de6ba5-edd3-43e1-9da9-09841127dc03",
+    "timestamp": "2024-11-07T03:16:47.818628",
+    "event_type": "authentication",
+    "username": "dakshloiya",
+    "details": {
+      "status": "success",
+      "voice_similarity_score": 0.997535587176332,
+      "passphrase_match_score": 87,
+      "transcribed_text": "Search sort the add door the bird cage almost but",
+      "timestamp": "2024-11-07T03:16:47.818628"
+    }
+  },
+  {
+    "id": "d2202f69-f2b8-41e7-bd71-f7aa801d38f9",
+    "timestamp": "2024-11-07T03:16:47.818628",
+    "event_type": "authentication",
+    "username": "dakshloiya",
+    "details": {
+      "status": "success",
+      "timestamp": "2024-11-07T03:16:47.818628"
+    }
+  },
+  {
+    "id": "28b395d0-25a6-4978-a404-2bdfad6bbe7f",
+    "timestamp": "2024-11-07T10:48:25.085518",
+    "event_type": "login_successful",
+    "username": "dakshh",
+    "details": {
+      "timestamp": "2024-11-07T10:48:25.082323",
+      "mac_address": "a8:41:f4:77:bc:b9"
+    }
+  },
+  {
+    "id": "0b2c71d7-a2f8-4d21-8e6d-dd97b770e0ac",
+    "timestamp": "2024-11-07T10:52:41.483738",
+    "event_type": "authentication",
+    "username": "dakshh",
+    "details": {
+      "status": "failed",
+      "reason": "User not found",
+      "timestamp": "2024-11-07T10:52:41.483738"
+    }
+  },
+  {
+    "id": "ac55dd13-4180-4e28-9a66-f75ec41f4555",
+    "timestamp": "2024-11-07T10:52:41.486243",
+    "event_type": "authentication",
+    "username": "dakshh",
+    "details": {
+      "status": "failed",
+      "timestamp": "2024-11-07T10:52:41.486243"
+    }
+  },
+  {
+    "id": "e121d66a-b37c-4dc2-982e-ef4e2af0e4e8",
+    "timestamp": "2024-11-07T10:52:52.681848",
+    "event_type": "authentication",
+    "username": "dakshh",
+    "details": {
+      "status": "failed",
+      "reason": "User not found",
+      "timestamp": "2024-11-07T10:52:52.681848"
+    }
+  },
+  {
+    "id": "c03ef1cd-c33e-4ed4-b81d-5426aa173fec",
+    "timestamp": "2024-11-07T10:52:52.681848",
+    "event_type": "authentication",
+    "username": "dakshh",
+    "details": {
+      "status": "failed",
+      "timestamp": "2024-11-07T10:52:52.681848"
+    }
+  },
+  {
+    "id": "41816143-679f-4a50-b6ff-9de64013cb48",
+    "timestamp": "2024-11-07T10:53:06.999175",
+    "event_type": "authentication",
+    "username": "dakshh",
+    "details": {
+      "status": "failed",
+      "reason": "User not found",
+      "timestamp": "2024-11-07T10:53:06.999175"
+    }
+  },
+  {
+    "id": "664e6849-6c16-4aaf-b56c-9b2297bccfb1",
+    "timestamp": "2024-11-07T10:53:07.003588",
+    "event_type": "authentication",
+    "username": "dakshh",
+    "details": {
+      "status": "failed",
+      "timestamp": "2024-11-07T10:53:07.002525"
+    }
+  },
+  {
+    "id": "e866ee45-f32d-4a4e-8554-0e15737f851a",
+    "timestamp": "2024-11-07T10:53:21.361694",
+    "event_type": "authentication",
+    "username": "dakshh",
+    "details": {
+      "status": "failed",
+      "reason": "User not found",
+      "timestamp": "2024-11-07T10:53:21.360655"
+    }
+  },
+  {
+    "id": "ea3f4bab-cd0b-4a47-8c88-d199ee758e42",
+    "timestamp": "2024-11-07T10:53:21.364553",
+    "event_type": "authentication",
+    "username": "dakshh",
+    "details": {
+      "status": "failed",
+      "timestamp": "2024-11-07T10:53:21.362999"
+    }
+  },
+  {
+    "id": "707cc272-3508-4ba7-b256-82d2df1c2b13",
+    "timestamp": "2024-11-07T10:55:19.329710",
+    "event_type": "authentication",
+    "username": "dakshh",
+    "details": {
+      "status": "failed",
+      "reason": "User not found",
+      "timestamp": "2024-11-07T10:55:19.329710"
+    }
+  },
+  {
+    "id": "51f660e1-e155-49ee-94f3-6a9f34166978",
+    "timestamp": "2024-11-07T10:55:19.334356",
+    "event_type": "authentication",
+    "username": "dakshh",
+    "details": {
+      "status": "failed",
+      "timestamp": "2024-11-07T10:55:19.329710",
+      "attempt_number": 1
+    }
+  },
+  {
+    "id": "41232494-9a92-4844-b2ca-f0f35056cb05",
+    "timestamp": "2024-11-07T10:55:35.195793",
+    "event_type": "authentication",
+    "username": "dakshh",
+    "details": {
+      "status": "failed",
+      "reason": "User not found",
+      "timestamp": "2024-11-07T10:55:35.195793"
+    }
+  },
+  {
+    "id": "8b83af9c-e1a9-496b-a739-e876bed9ab8b",
+    "timestamp": "2024-11-07T10:55:35.207381",
+    "event_type": "authentication",
+    "username": "dakshh",
+    "details": {
+      "status": "failed",
+      "timestamp": "2024-11-07T10:55:35.204336",
+      "attempt_number": 2
+    }
+  },
+  {
+    "id": "4f830474-67ca-4ffa-8930-4e46af45fa17",
+    "timestamp": "2024-11-07T10:55:45.340638",
+    "event_type": "authentication",
+    "username": "dakshh",
+    "details": {
+      "status": "failed",
+      "reason": "User not found",
+      "timestamp": "2024-11-07T10:55:45.337839"
+    }
+  },
+  {
+    "id": "e34f0ffb-2e33-4367-b238-54f283b07aea",
+    "timestamp": "2024-11-07T10:55:45.343303",
+    "event_type": "authentication",
+    "username": "dakshh",
+    "details": {
+      "status": "failed",
+      "timestamp": "2024-11-07T10:55:45.343303",
+      "attempt_number": 3
+    }
+  },
+  {
+    "id": "75ce7332-f15e-4b2c-a698-a0351f195e64",
+    "timestamp": "2024-11-07T10:55:57.362964",
+    "event_type": "authentication",
+    "username": "dakshh",
+    "details": {
+      "status": "failed",
+      "reason": "User not found",
+      "timestamp": "2024-11-07T10:55:57.361386"
+    }
+  },
+  {
+    "id": "801a75eb-d06f-449d-901f-3a1e15123d46",
+    "timestamp": "2024-11-07T10:55:57.368434",
+    "event_type": "authentication",
+    "username": "dakshh",
+    "details": {
+      "status": "failed",
+      "timestamp": "2024-11-07T10:55:57.365918",
+      "attempt_number": 4
+    }
+  }
+]

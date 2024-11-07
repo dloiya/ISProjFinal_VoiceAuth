@@ -1,0 +1,150 @@
+[
+  {
+    "id": "5527b72f-aeb6-48cc-a05e-803e9d42ef48",
+    "timestamp": "2024-11-05T16:19:15.502408",
+    "event_type": "authentication",
+    "username": "dl",
+    "details": {
+      "status": "failed",
+      "reason": "User not found",
+      "timestamp": "2024-11-05T16:19:15.502408"
+    }
+  },
+  {
+    "id": "3035fc20-81db-42ae-a65d-a891c68ce363",
+    "timestamp": "2024-11-05T16:19:15.503893",
+    "event_type": "authentication",
+    "username": "dl",
+    "details": {
+      "status": "failed",
+      "timestamp": "2024-11-05T16:19:15.503453"
+    }
+  },
+  {
+    "id": "0293ba43-e194-4e5b-af9e-976073f3bc6a",
+    "timestamp": "2024-11-05T16:21:50.827667",
+    "event_type": "authentication",
+    "username": "dl",
+    "details": {
+      "status": "failed",
+      "reason": "User not found",
+      "timestamp": "2024-11-05T16:21:50.827667"
+    }
+  },
+  {
+    "id": "7fb2f58f-1712-4fd6-9b1a-e158d1b2ea90",
+    "timestamp": "2024-11-05T16:21:50.835313",
+    "event_type": "authentication",
+    "username": "dl",
+    "details": {
+      "status": "failed",
+      "timestamp": "2024-11-05T16:21:50.835313"
+    }
+  },
+  {
+    "id": "8bc6331e-49fd-4333-b255-d159e04fe1d5",
+    "timestamp": "2024-11-05T16:25:24.839514",
+    "event_type": "authentication",
+    "username": "dl",
+    "details": {
+      "status": "failed",
+      "reason": "User not found",
+      "timestamp": "2024-11-05T16:25:24.839514"
+    }
+  },
+  {
+    "id": "083a5b46-a7f7-47e0-ab72-e551954e8ab2",
+    "timestamp": "2024-11-05T16:25:24.839514",
+    "event_type": "authentication",
+    "username": "dl",
+    "details": {
+      "status": "failed",
+      "timestamp": "2024-11-05T16:25:24.839514"
+    }
+  },
+  {
+    "id": "3849f2f7-10c1-417d-9749-c27c5d9a3d6a",
+    "timestamp": "2024-11-05T16:37:40.255070",
+    "event_type": "registration",
+    "username": "dl",
+    "details": {
+      "status": "success",
+      "timestamp": "2024-11-05T16:37:40.255070",
+      "embedding_size": 60
+    }
+  },
+  {
+    "id": "debf7757-ac56-4f14-9ec0-92dcc4bf7664",
+    "timestamp": "2024-11-05T16:38:20.376407",
+    "event_type": "authentication",
+    "username": "dl",
+    "details": {
+      "status": "failed",
+      "reason": "User not found",
+      "timestamp": "2024-11-05T16:38:20.376407"
+    }
+  },
+  {
+    "id": "5f1eacd9-98a0-4fe7-bf45-7cd5e279ddd9",
+    "timestamp": "2024-11-05T16:38:20.378441",
+    "event_type": "authentication",
+    "username": "dl",
+    "details": {
+      "status": "failed",
+      "timestamp": "2024-11-05T16:38:20.378441"
+    }
+  },
+  {
+    "id": "63359e6a-af7b-4455-ba08-80c012d57a4e",
+    "timestamp": "2024-11-06T20:41:17.157079",
+    "event_type": "registration",
+    "username": "dl",
+    "details": {
+      "status": "success",
+      "timestamp": "2024-11-06T20:41:17.157079",
+      "embedding_size": 60
+    }
+  },
+  {
+    "id": "ccd36198-d805-43c2-9bfc-632c5291a1b7",
+    "timestamp": "2024-11-06T20:42:36.217986",
+    "event_type": "authentication",
+    "username": "dl",
+    "details": {
+      "status": "error",
+      "error_message": "'passphrase'",
+      "timestamp": "2024-11-06T20:42:36.216942"
+    }
+  },
+  {
+    "id": "619d7f4a-71b9-4c3a-9c3f-cd65363f51a9",
+    "timestamp": "2024-11-06T20:42:36.220480",
+    "event_type": "authentication",
+    "username": "dl",
+    "details": {
+      "status": "failed",
+      "timestamp": "2024-11-06T20:42:36.219460"
+    }
+  },
+  {
+    "id": "6385808a-a810-4057-bb0a-373350d205cb",
+    "timestamp": "2024-11-06T20:45:13.502207",
+    "event_type": "authentication",
+    "username": "dl",
+    "details": {
+      "status": "error",
+      "error_message": "'passphrase'",
+      "timestamp": "2024-11-06T20:45:13.502207"
+    }
+  },
+  {
+    "id": "84fc7a7f-4cab-4cbf-b182-9eab4ee5e910",
+    "timestamp": "2024-11-06T20:45:13.504885",
+    "event_type": "authentication",
+    "username": "dl",
+    "details": {
+      "status": "failed",
+      "timestamp": "2024-11-06T20:45:13.503527"
+    }
+  }
+]
