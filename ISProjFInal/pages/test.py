@@ -185,6 +185,7 @@ def handle_photo(message):
 
             try:
                 # Import PEM key directly
+                print(private_key_pem)
                 private_key = RSA.import_key(private_key_pem)
                 cipher_rsa = PKCS1_OAEP.new(private_key)
                 decrypted_passphrase = cipher_rsa.decrypt(encrypted_passphrase).decode('utf-8')

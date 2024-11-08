@@ -44,13 +44,13 @@ def dashboard():
 
         if st.button("Submit"):
             if selected_option == "Open Vault":
-                st.switch_page("pages/voiceuser.py")
+                st.switch_page("pages/piwhotemp.py")
             elif selected_option == "Register New User" and user_access_level == "admin":
                 st.switch_page("pages/adduser.py")
             elif selected_option == "Open Logs" and user_access_level == "admin":
                 st.switch_page("pages/logs.py")
             elif selected_option == "Register New Voice" and user_access_level == "admin":
-                st.switch_page("pages/voiceadmin.py")
+                st.switch_page("pages/piwhoadmin.py")
             elif selected_option == "Logout":
                 logout()
     else:

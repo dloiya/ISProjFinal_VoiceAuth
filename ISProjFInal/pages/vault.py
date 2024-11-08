@@ -41,7 +41,7 @@ def update_passphrase():
         content = content.translate(translator)
 
         words = content.split()
-        sentence = ' '.join(random.sample(words, 10))
+        sentence = ' '.join(random.sample(words, 8))
 
     # Encrypt and save the passphrase in the database
     save_passphrase(sentence)

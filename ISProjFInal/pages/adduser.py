@@ -66,7 +66,7 @@ def adduser():
         users_collection.insert_one(new_user)
         st.success("Registration successful!")
     if st.button("Back"):
-        st.switch_page("pages/pages.py")
+        st.switch_page("pages/dashboard.py")
 
 if __name__ == "__main__":
     adduser()
